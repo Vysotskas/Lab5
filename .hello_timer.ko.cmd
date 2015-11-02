@@ -1,1 +1,0 @@
-cmd_/home/parallels/Desktop/lab5_2-master/hello_timer.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-34-generic/scripts/module-common.lds --build-id  -o /home/parallels/Desktop/lab5_2-master/hello_timer.ko /home/parallels/Desktop/lab5_2-master/hello_timer.o /home/parallels/Desktop/lab5_2-master/hello_timer.mod.o

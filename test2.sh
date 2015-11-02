@@ -1,2 +1,2 @@
 dmesg > info.txt
-sudo rmmod hello_timer.ko 
+sudo rmmod hello_timer.ko
