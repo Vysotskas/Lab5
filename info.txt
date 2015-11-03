@@ -760,3 +760,30 @@
 [ 1873.126403] hello world!
 [ 1876.134391] hello world!
 [ 1879.142583] hello world!
+[ 3084.969002] usb 1-1: USB disconnect, device number 2
+[ 3085.148422] usb 1-2: USB disconnect, device number 3
+[ 3085.153645] usblp0: removed
+[ 3085.521716] usb 1-1: new high-speed USB device number 4 using ehci-pci
+[ 3085.654748] usb 1-1: New USB device found, idVendor=203a, idProduct=fff9
+[ 3085.654753] usb 1-1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[ 3085.654755] usb 1-1: Product: HD-\xffffffd0\xffffffba\xffffffba\xffffffd0\xffffffb0\xffffffb0\xffffffd0\xffffffbc\xffffffbc\xffffffd0\xffffffb5\xffffffb5\xffffffd1\xffffff80\xffffff80\xffffffd0\xffffffb0\xffffffb0 FaceTime
+[ 3085.654757] usb 1-1: Manufacturer: Parallels
+[ 3085.654759] usb 1-1: SerialNumber: DJH3393LPFFF6VTD3
+[ 3085.655796] uvcvideo: Found UVC 1.00 device HD-\xffffffd0\xffffffba\xffffffba\xffffffd0\xffffffb0\xffffffb0\xffffffd0\xffffffbc\xffffffbc\xffffffd0\xffffffb5\xffffffb5\xffffffd1\xffffff80\xffffff80\xffffffd0\xffffffb0\xffffffb0 FaceTime (203a:fff9)
+[ 3085.893843] usb 1-2: new high-speed USB device number 5 using ehci-pci
+[ 3086.025911] usb 1-2: New USB device found, idVendor=203a, idProduct=fffa
+[ 3086.025916] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[ 3086.025918] usb 1-2: Product: Virtual Printer (Print to PDF (Mac Desktop))
+[ 3086.025920] usb 1-2: Manufacturer: Parallels
+[ 3086.025922] usb 1-2: SerialNumber: TAG11d87aca0
+[ 3086.033256] usblp 1-2:1.0: usblp0: USB Unidirectional printer dev 5 if 0 alt 0 proto 1 vid 0x203A pid 0xFFFA
+[ 3086.438472] traps: notify-osd[2040] trap int3 ip:7f7d607c1c13 sp:7fffa41d6680 error:0
+[ 3087.779774] usblp0: removed
+[ 3087.787519] usblp 1-2:1.0: usblp0: USB Unidirectional printer dev 5 if 0 alt 0 proto 1 vid 0x203A pid 0xFFFA
+[ 3105.420429] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[ 3498.663560] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[ 3518.258621] IPv6: ADDRCONF(NETDEV_CHANGE): eth1: link becomes ready
+[ 4228.395240] Hello World!
+[ 4228.397581] Hello World!
+[ 4233.406605] Hello World!
+[ 4238.413584] Hello World!
