@@ -39,8 +39,14 @@ static ssize_t store(struct kobject *kobj,
 	return count;
 }
 
-static struct kobj_attribute sc_attrb =
-    __ATTR(timer, 0666, show, store);
+static struct kobj_attribute sc_attrb = {
+	.attr = {
+		.name = "HelloWorld",
+		.mode = 0666,
+	},
+	.show = show,
+	.store = store,
+	};
 
 static struct kobject *kobj;
 
