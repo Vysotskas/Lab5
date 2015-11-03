@@ -40,7 +40,8 @@ static ssize_t store(struct kobject *kobj,
 }
 
 static struct kobj_attribute sc_attrb =
-    __ATTR(timer, 0664, show, store);
+    __ATTR(timer, 0666, show, store);
+
 static struct kobject *kobj;
 
 static int __init example_init(void)

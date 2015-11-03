@@ -787,3 +787,9 @@
 [ 4228.397581] Hello World!
 [ 4233.406605] Hello World!
 [ 4238.413584] Hello World!
+[ 4281.467713] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[ 4301.463758] IPv6: ADDRCONF(NETDEV_CHANGE): eth1: link becomes ready
+[ 9175.669300] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[ 9196.820934] IPv6: ADDRCONF(NETDEV_CHANGE): eth1: link becomes ready
+[11813.983321] IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+[11831.970731] IPv6: ADDRCONF(NETDEV_CHANGE): eth1: link becomes ready
